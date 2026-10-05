@@ -1,0 +1,20 @@
+{
+  "name": "youtube_project",
+  "version": "1.0.0",
+  "description": "youtube project - learning mern stack",
+  "homepage": "https://github.com/kanishkasingh18/youtube_project#readme",
+  "bugs": {
+    "url": "https://github.com/kanishkasingh18/youtube_project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanishkasingh18/youtube_project.git"
+  },
+  "license": "ISC",
+  "author": "Kanishka Singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
